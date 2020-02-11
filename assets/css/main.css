@@ -1,0 +1,31 @@
+body{
+    background-color: rebeccapurple;
+    font-family: cursive;
+}
+h1{
+    background-color: saddlebrown;
+}
+.fish{
+    color: turquoise;
+    border-style: dotted;
+    border-width: 50px;
+    text-align: center ;
+}
+.press{
+    margin-bottom: 100px;
+    padding-left: 100px;
+}
+.hit{
+    height: 200px;
+    width: 80%;
+    background-color: burlywood;
+}
+ul.dad{
+    list-style-type: square;
+}
+li.mum{
+    color: yellow;
+}
+table,th,tr,td{
+    border: 1px solid black;
+}
